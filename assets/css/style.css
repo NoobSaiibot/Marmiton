@@ -1,0 +1,12 @@
+/* GENERAL */
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  color: #efefef;
+}
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+/* <section></section> */
