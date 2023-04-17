@@ -27,4 +27,16 @@ h1 {
   color: #393c6c;
 }
 h2 {
+  font-size: 30px;
+  border-style: solid;
+  color: #f3735f;
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 18px;
+  border-style: solid;
+  color: #393c6c;
+  line-height: 22px;
 }
