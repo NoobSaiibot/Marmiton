@@ -1,4 +1,8 @@
 /* GENERAL */
+header {
+  background-color: #f3735f;
+  border-bottom: 1px;
+}
 
 body {
   font-family: "Roboto", sans-serif;
